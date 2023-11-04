@@ -1,0 +1,32 @@
+[
+    {
+        "code": "123456",
+        "size": "M",
+        "quantity": 50,
+        "price": 100
+    },
+    {
+        "code": "123456",
+        "size": "L",
+        "quantity": 10,
+        "price": 120
+    },
+    {
+        "code": "654321",
+        "size": "S",
+        "quantity": 10,
+        "price": 80
+    },
+    {
+        "code": "1234567",
+        "size": "M",
+        "quantity": 1000,
+        "price": 120
+    },
+    {
+        "code": "12345678",
+        "size": "L",
+        "quantity": 500,
+        "price": 100
+    }
+]
